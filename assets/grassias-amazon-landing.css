@@ -297,6 +297,7 @@ img {
 .watch-img {
   width: var(--full-width);
   max-width: 580px;
+  margin-bottom: -140px;
 }
 /* grass anim */
 .w-anim-div{
